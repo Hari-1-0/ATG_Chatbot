@@ -17,11 +17,11 @@ This project is a lightweight, terminal-based chatbot built as part of an intern
 ## Project Structure
 
 chatbot_project/<br />
--├── model_loader.py # Loads model and tokenizer<br />
--├── chat_memory.py # Manages memory buffer (sliding window)
--├── interface.py # Main CLI loop
--├── requirements.txt # Dependencies
--├── README.md # Project description and instructions
+├── model_loader.py # Loads model and tokenizer<br />
+├── chat_memory.py # Manages memory buffer (sliding window)<br />
+├── interface.py # Main CLI loop<br />
+├── requirements.txt # Dependencies<br />
+├── README.md # Project description and instructions<br />
 
 
 ---
